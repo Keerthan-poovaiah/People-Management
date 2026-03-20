@@ -43,5 +43,11 @@
     "ts-node": "~7.0.0",
     "tslint": "~5.15.0",
     "typescript": "~3.5.3"
-  }
+  },
+  "browserslist": [
+  "last 2 Chrome versions",
+  "last 2 Firefox versions",
+  "last 2 Edge versions",
+  "last 2 Safari versions"
+]
 }

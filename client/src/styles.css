@@ -1,1 +1,35 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f6f8;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+h2 {
+  color: #444;
+}
+
+.navbar {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  background-color: #007bff;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.navbar a:hover {
+  text-decoration: underline;
+}

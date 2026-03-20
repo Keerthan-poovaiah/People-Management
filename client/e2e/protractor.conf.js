@@ -1,6 +1,7 @@
 // @ts-check
 // Protractor configuration file, see link for more information
 // https://github.com/angular/protractor/blob/master/lib/config.ts
+// Protractor configuration for end-to-end testing of the People Management System Angular application.
 
 const { SpecReporter } = require('jasmine-spec-reporter');
 
